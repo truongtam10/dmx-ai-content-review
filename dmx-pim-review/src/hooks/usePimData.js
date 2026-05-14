@@ -7,7 +7,7 @@ export function usePimData() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch('/data/test_maylanh_PIM.json')
+    fetch(import.meta.env.BASE_URL + 'data/test_maylanh_PIM.json')
       .then(res => {
         if (!res.ok) throw new Error(`HTTP ${res.status} — không tải được file JSON`);
         return res.json();

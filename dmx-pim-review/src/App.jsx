@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom';
+import { HashRouter, Routes, Route, NavLink } from 'react-router-dom';
 import { useState } from 'react';
 import ReviewPage from './pages/ReviewPage';
 import EditorPage from './pages/EditorPage';
@@ -14,7 +14,7 @@ export default function App() {
   };
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <header className="topbar">
         <div className="topbar-left">
           <span className="topbar-logo">DMX · PIM</span>
@@ -47,6 +47,6 @@ export default function App() {
           <Route path="/editor" element={<EditorPage />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }

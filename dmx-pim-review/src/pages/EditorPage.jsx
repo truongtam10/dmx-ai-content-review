@@ -49,7 +49,7 @@ export default function EditorPage() {
 
   const handleLoadSample = async () => {
     try {
-      const res = await fetch('/data/test_maylanh_PIM.json');
+      const res = await fetch(import.meta.env.BASE_URL + 'data/test_maylanh_PIM.json');
       const text = await res.text();
       setJsonText(text);
       setParseError(null);
