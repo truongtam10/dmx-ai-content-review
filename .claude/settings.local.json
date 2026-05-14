@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173)",
+      "Bash(open http://localhost:5173)",
+      "Bash(node -e ' *)",
+      "Bash(mkdir -p \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/.claude/commands\" && mkdir -p \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/scripts\")",
+      "Bash(node scripts/validate-pim-data.js)",
+      "Bash(echo \"Exit: $?\")",
+      "Bash(npm ls *)",
+      "Read(//tmp/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/.claude"
+    ]
+  }
+}

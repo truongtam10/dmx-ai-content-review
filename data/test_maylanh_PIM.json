@@ -1,0 +1,771 @@
+{
+    "general": {
+        "manu_component_code": {
+            "label": "Mã số linh kiện của NSX",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "no_imei": {
+            "label": "Mã sản phẩm No-IMEI",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "product_type": {
+            "label": "Phân loại sản phẩm",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "product_type_list": {
+            "label": "Phân loại sản phẩm",
+            "cmsCode": null,
+            "propertyType": "multi select",
+            "value": null,
+            "isPim": true
+        },
+        "user_manual_image": {
+            "label": "Giấy hướng dẫn sử dụng",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "certified_declaration": {
+            "label": "Giấy công bố cục chứng nhận",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "other_genuine_declaration": {
+            "label": "Giấy công bố chính hãng khác",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "manufacture_code": {
+            "label": "Nhà sản xuất",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "manufacturing_country_code": {
+            "label": "Nơi sản xuất",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "key_features": {
+            "label": "Đặc điểm nổi bật",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": null,
+            "isPim": true
+        },
+        "brand_id": {
+            "label": "Thương hiệu",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "month_warranty": 36,
+        "display_order": {
+            "label": "Thứ tự hiển thị của SKU trong model",
+            "cmsCode": null,
+            "propertyType": "number",
+            "value": null,
+            "isPim": true
+        },
+        "cms_category_id": {
+            "label": "Ngành hàng CMS",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "size_choosing_instruction": {
+            "label": "Bảng size",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "using_instruction": {
+            "label": "Hướng dẫn sử dụng và bảo quản",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": null,
+            "isPim": true
+        },
+        "display_order_priority": {
+            "label": "Thứ tự sắp xếp nổi bật của sản phẩm",
+            "cmsCode": null,
+            "propertyType": "number",
+            "value": null,
+            "isPim": true
+        },
+        "arrival_day": {
+            "label": "Ngày hàng về",
+            "cmsCode": null,
+            "propertyType": "date",
+            "value": null,
+            "isPim": true
+        },
+        "association_code": {
+            "label": "Mã liên kết sản phẩm combo",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "is_combo": {
+            "label": "Là sản phẩm combo",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "product_type_business": {
+            "label": "Loại sản phẩm",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "model_id_cms": {
+            "label": "Mã sản phẩm CMS của model",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "cms_manufacturerid": {
+            "label": "Mã nhà sản xuất",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "keyword_search": {
+            "label": "Từ khóa search",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "cms_catgory_name": {
+            "label": "Tên ngành hàng CMS",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "product_name": {
+            "label": "Tên model",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "sku": {
+            "label": "Mã sản phẩm ERP",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "image": {
+            "label": "Hình đại diện của model",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84NThkN2Q5MTk4Mjc3N2Y1L0lnQWpsOU9EODdYd1NxZEgxWDNrMF9tUUFVZnFaTjJieS1zQnpzX2RBMHZlamNVP2U9M1JYNWFY&id=858D7D91982777F5%21s83d39723b5f34af0a747d57de4d3f990&cid=858D7D91982777F5",
+            "isPim": true
+        },
+        "product_shortname_sku": {
+            "label": "Tên rút gọn hiển thị box sản phẩm của SKU",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "product_name_sku": {
+            "label": "Tên của SKU hiển thị trang chi tiết",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "product_id_cms": {
+            "label": "Mã sản phẩm Web",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "short_name": {
+            "label": "Tên rút gọn",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "brand_code": {
+            "label": "Thương hiệu",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": "TCL",
+            "isPim": true
+        },
+        "seo_name": {
+            "label": "Tên thương mại",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "is_sold_independently": {
+            "label": "Là sản phẩm bán độc lập?",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "url": {
+            "label": "URL",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "tcl-inverter-1-hp-tac-br10csv-tb",
+            "isPim": true
+        },
+        "product_type_dmx": {
+            "label": "Loại sản phẩm (Thợ ĐMX)",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "product_short_name": {
+            "label": "Tên viết tắt",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "base_uom": {
+            "label": "ĐVT cơ sở",
+            "cmsCode": null,
+            "propertyType": "measurement",
+            "value": null,
+            "isPim": true
+        },
+        "item_code": {
+            "label": "Model",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TAC-BR10CSV/TB",
+            "isPim": true
+        },
+        "key_selling_points": {
+            "label": "Đặc điểm sản phẩm",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": "Công suất làm lạnh: 1HP - 9600 BTU",
+            "isPim": true
+        },
+        "is_average_cost_price": {
+            "label": "Tính bình quân gia quyền",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "short_product_articles": {
+            "label": "Mô tả ngắn sản phẩm",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": null,
+            "isPim": true
+        },
+        "is_service": {
+            "label": "Sản phẩm dịch vụ",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "product_articles": {
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB là giải pháp làm lạnh hiệu quả và tiết kiệm năng lượng cho không gian sống hiện đại. Thiết kế treo tường tinh tế, phù hợp với nhiều kiểu nội thất, mang lại vẻ đẹp sang trọng và gọn gàng cho căn phòng. Sản phẩm sử dụng gas R-32 thân thiện với môi trường, giúp giảm phát thải khí nhà kính và nâng cao hiệu suất làm lạnh.\n\nĐược trang bị công nghệ AI Inverter, máy lạnh TCL tối ưu hóa hoạt động của máy nén, duy trì nhiệt độ ổn định và giảm tiêu thụ điện năng đáng kể. Chế độ GEN mode hỗ trợ vận hành êm ái, tiết kiệm điện hơn so với các model thông thường. Đặc biệt, tính năng Siêu tiết kiệm điện T-AI giúp người dùng kiểm soát chi phí điện hiệu quả trong thời gian dài.\n\nMáy lạnh 1 chiều (chỉ làm lạnh) này sở hữu nhiều tiện ích thông minh như chế độ thổi gió dễ chịu, phù hợp với trẻ em và người lớn tuổi, đảo gió lên xuống tự động giúp phân phối luồng khí đều khắp phòng. Chức năng tự làm sạch dàn lạnh hạn chế vi khuẩn và nấm mốc, đảm bảo không khí luôn trong lành. Ngoài ra, sản phẩm còn tích hợp màn hình LED hiển thị rõ ràng, hẹn giờ bật/tắt, tự khởi động lại sau khi mất điện và chức năng tự chẩn đoán lỗi, hỗ trợ người dùng dễ dàng theo dõi và bảo trì.\n\nDàn trao đổi nhiệt được cấu tạo từ ống dẫn gas bằng đồng và lá tản nhiệt bằng nhôm phủ lớp Black Fin, kết hợp công nghệ Gold-Fin chống ăn mòn, tăng độ bền và hiệu quả tản nhiệt. Máy được sản xuất tại Trung Quốc, đi kèm chính sách bảo hành 3 năm cho linh kiện và 2 năm cho máy nén, đảm bảo an tâm trong quá trình sử dụng.",
+            "label": "Bài viết sản phẩm",
+            "propertyType": "text area",
+            "isPim": true,
+            "cmsCode": null
+        },
+        "is_request_imei": {
+            "label": "Yêu cầu nhập IMEI",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "is_base_product": {
+            "label": "Là sản phẩm cơ sở",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "release_date": {
+            "label": "Ngày ra mắt",
+            "cmsCode": null,
+            "propertyType": "date",
+            "value": "2026-01-01",
+            "isPim": false
+        },
+        "tags": {
+            "label": "Tags",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lạnh TCL Inverter 1 HP, TCL, Máy lạnh 1 HP, Máy lạnh Inverter, Máy lạnh 1 chiều",
+            "isPim": false
+        }
+    },
+    "content": {
+        "shortDescription_content": {
+            "label": "Thông tin nhanh",
+            "cmsCode": null,
+            "propertyType": "textarea",
+            "value": "Công suất làm lạnh: 1HP - 9600 BTU"
+        },
+        "hotReason_content": {
+            "label": "Key selling points",
+            "cmsCode": null,
+            "propertyType": "textarea",
+            "value": "Công suất làm lạnh: 1HP - 9600 BTU"
+        },
+        "description_content": {
+            "label": "Tính năng nổi bật",
+            "cmsCode": null,
+            "propertyType": "textarea",
+            "value": null
+        }
+    },
+    "specs": {
+        "water_and_dust_resistant_dmxtskt_options": {
+            "label": "Chuẩn chống nước, bụi",
+            "cmsCode": 6824,
+            "propertyType": "options",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "inverter_type_dmxtskt_option": {
+            "value": "Không có",
+            "isPim": true,
+            "optionCode": "18",
+            "label": "Loại Inverter",
+            "cmsCode": 6820,
+            "propertyType": "option"
+        },
+        "wind_mode_dmxtskt_option": {
+            "value": "Đảo gió lên xuống tự động",
+            "isPim": true,
+            "optionCode": "1",
+            "label": "Chế độ gió",
+            "cmsCode": 6825,
+            "propertyType": "option"
+        },
+        "made_in_dmxtskt_option": {
+            "value": "Trung Quốc",
+            "isPim": true,
+            "optionCode": "3",
+            "label": "Sản xuất tại",
+            "cmsCode": 6834,
+            "propertyType": "option"
+        },
+        "product_line_dmxtskt_option": {
+            "label": "Dòng sản phẩm",
+            "cmsCode": 6990,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "scope_of_use_dmxtskt_option": {
+            "label": "Phạm vi sử dụng",
+            "cmsCode": 7041,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "cooling_technology_dmxtskt_option": {
+            "value": "Không",
+            "isPim": true,
+            "optionCode": "2",
+            "label": "Công nghệ làm lạnh",
+            "cmsCode": 7144,
+            "propertyType": "option"
+        },
+        "gas_type_dmxtskt_option": {
+            "value": "R-32",
+            "isPim": true,
+            "optionCode": "10",
+            "label": "Loại Gas",
+            "cmsCode": 7145,
+            "propertyType": "option"
+        },
+        "engine_warranty_dmxtskt_option": {
+            "value": "Máy nén 2 năm",
+            "isPim": true,
+            "optionCode": "1",
+            "label": "Bảo hành động cơ",
+            "cmsCode": 7599,
+            "propertyType": "option"
+        },
+        "parts_warranty_dmxtskt_option": {
+            "value": "3 năm",
+            "isPim": true,
+            "optionCode": "9",
+            "label": "Bảo hành bộ phận",
+            "cmsCode": 7995,
+            "propertyType": "option"
+        },
+        "type_of_machine_dmxtskt_option": {
+            "value": "Máy lạnh 1 chiều (chỉ làm lạnh)",
+            "isPim": true,
+            "optionCode": "3",
+            "label": "Loại máy",
+            "cmsCode": 8461,
+            "propertyType": "option"
+        },
+        "output_power_dmxtskt_option": {
+            "value": "1 HP",
+            "isPim": true,
+            "optionCode": "1128",
+            "label": "Công suất đầu ra",
+            "cmsCode": 8899,
+            "propertyType": "option"
+        },
+        "energysaving_technology_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "AI Inverer",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
+            "label": "Công nghệ tiết kiệm điện",
+            "cmsCode": 8483,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "electricity_consumption_dmxtskt_textarea": {
+            "label": "Điện năng tiêu thụ",
+            "cmsCode": 8901,
+            "propertyType": "textarea",
+            "value": "2813 W"
+        },
+        "utilities_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Thổi gió dễ chịu (cho trẻ em, người già)",
+                    "isPim": true,
+                    "optionCode": "445"
+                },
+                {
+                    "value": "Siêu tiết kiệm điện T-AI",
+                    "isPim": true,
+                    "optionCode": "4615"
+                },
+                {
+                    "value": "Công nghệ Gold-Fin chống ăn mòn",
+                    "isPim": true,
+                    "optionCode": "380"
+                },
+                {
+                    "value": "Chế độ GEN mode",
+                    "isPim": true,
+                    "optionCode": "4614"
+                },
+                {
+                    "value": "Màn hình led",
+                    "isPim": true,
+                    "optionCode": "127"
+                },
+                {
+                    "value": "Chức năng tự chẩn đoán lỗi",
+                    "isPim": true,
+                    "optionCode": "372"
+                },
+                {
+                    "value": "Tự khởi động lại khi có điện",
+                    "isPim": true,
+                    "optionCode": "446"
+                },
+                {
+                    "value": "Chức năng tự làm sạch dàn lạnh",
+                    "isPim": true,
+                    "optionCode": "276"
+                },
+                {
+                    "value": "Hẹn giờ",
+                    "isPim": true,
+                    "optionCode": "74"
+                }
+            ],
+            "label": "Tiện ích",
+            "cmsCode": 8902,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "energy_label_dmxtskt_textarea": {
+            "label": "Nhãn năng lượng",
+            "cmsCode": 9599,
+            "propertyType": "textarea",
+            "value": "5 sao -5.34"
+        },
+        "long_copper_pipe_dmxtskt_option": {
+            "value": "Tiêu chuẩn 5 - 8m - Tối thiểu 3m - Tối đa 15m",
+            "isPim": true,
+            "optionCode": "14",
+            "label": "Dài ống đồng",
+            "cmsCode": 10959,
+            "propertyType": "option"
+        },
+        "installation_height_dmxtskt_option": {
+            "value": "10m",
+            "isPim": true,
+            "optionCode": "7",
+            "label": "Cao lắp đặt",
+            "cmsCode": 10960,
+            "propertyType": "option"
+        },
+        "heat_exchanger_material_dmxtskt_option": {
+            "value": "Ống dẫn gas bằng Đồng - Lá tản nhiệt bằng Nhôm được phủ lớp Black Fin",
+            "isPim": true,
+            "optionCode": "1",
+            "label": "Chất liệu dàn tản nhiệt",
+            "cmsCode": 16160,
+            "propertyType": "option"
+        },
+        "noise_level_dmxtskt_textarea": {
+            "label": "Độ ồn",
+            "cmsCode": 21270,
+            "propertyType": "textarea",
+            "value": "Dàn lạnh: 37/34/31 dB - Dàn nóng: 49 dB"
+        },
+        "input_current_dmxtskt_option": {
+            "value": "Dàn nóng hoặc dàn lạnh",
+            "isPim": true,
+            "optionCode": "1",
+            "label": "Dòng điện vào",
+            "cmsCode": 21271,
+            "propertyType": "option"
+        },
+        "copper_pipe_size_dmxtskt_option": {
+            "value": "6/10",
+            "isPim": true,
+            "optionCode": "25",
+            "label": "Kích thước ống đồng",
+            "cmsCode": 21272,
+            "propertyType": "option"
+        },
+        "quantity_dmxtskt_option": {
+            "label": "Số lượng",
+            "cmsCode": 26339,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "main_accessory_length_dmxtskt_textarea": {
+            "label": "Dài phụ kiện chính",
+            "cmsCode": 27028,
+            "propertyType": "textarea",
+            "value": "790"
+        },
+        "main_accessory_height_dmxtskt_textarea": {
+            "label": "Cao phụ kiện chính",
+            "cmsCode": 27029,
+            "propertyType": "textarea",
+            "value": "192"
+        },
+        "main_accessory_thickness_dmxtskt_textarea": {
+            "label": "Độ dày phụ kiện chính",
+            "cmsCode": 27030,
+            "propertyType": "textarea",
+            "value": "275"
+        },
+        "main_accessory_volume_dmxtskt_textarea": {
+            "label": "Khối lượng phụ kiện chính",
+            "cmsCode": 27031,
+            "propertyType": "textarea",
+            "value": "8"
+        },
+        "high_accessories_dmxtskt_textarea": {
+            "label": "Cao phụ kiện phụ",
+            "cmsCode": 27032,
+            "propertyType": "textarea",
+            "value": "459"
+        },
+        "long_accessory_dmxtskt_textarea": {
+            "label": "Dài phụ kiện phụ",
+            "cmsCode": 27033,
+            "propertyType": "textarea",
+            "value": "712"
+        },
+        "accessory_thickness_dmxtskt_textarea": {
+            "label": "Độ dày phụ kiện phụ",
+            "cmsCode": 27034,
+            "propertyType": "textarea",
+            "value": "276"
+        },
+        "quantity_of_accessories_dmxtskt_textarea": {
+            "label": "Khối lượng phụ kiện phụ",
+            "cmsCode": 27035,
+            "propertyType": "textarea",
+            "value": "18,5"
+        },
+        "main_accessory_height_2_dmxtskt_textarea": {
+            "label": "Cao phụ kiện chính 2",
+            "cmsCode": 34082,
+            "propertyType": "textarea",
+            "value": null
+        },
+        "main_accessory_length_2_dmxtskt_textarea": {
+            "label": "Dài phụ kiện chính 2",
+            "cmsCode": 34083,
+            "propertyType": "textarea",
+            "value": null
+        },
+        "main_accessory_thickness_2_dmxtskt_textarea": {
+            "label": "Độ dày phụ kiện chính 2",
+            "cmsCode": 34084,
+            "propertyType": "textarea",
+            "value": null
+        },
+        "machine_weight_dmxtskt_textarea": {
+            "label": "Khối lượng máy",
+            "cmsCode": 34085,
+            "propertyType": "textarea",
+            "value": "8kg - 18,5kg"
+        },
+        "operating_current_dmxtskt_option": {
+            "value": "4.0A",
+            "isPim": false,
+            "optionCode": null,
+            "label": "Dòng điện hoạt động",
+            "cmsCode": 42982,
+            "propertyType": "option"
+        },
+        "output_power_dmxfilter": {
+            "value": null,
+            "label": "Công suất đầu ra",
+            "cmsCode": 43478,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "inverter_technology_dmxfilter": {
+            "value": null,
+            "label": "Công nghệ Inverter",
+            "cmsCode": 9182,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "style_dmxfilter": {
+            "value": [
+                {
+                    "value": "Treo tường",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
+            "label": "Kiểu dáng",
+            "cmsCode": 15037,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "type_of_machine_dmxfilter": {
+            "value": [
+                {
+                    "value": "1 chiều",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
+            "label": "Loại máy",
+            "cmsCode": 34962,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "utilities_dmxfilter": {
+            "value": [
+                {
+                    "value": "Thổi gió dễ chịu (cho trẻ em, người già)",
+                    "isPim": true,
+                    "optionCode": "445"
+                },
+                {
+                    "value": "Siêu tiết kiệm điện T-AI",
+                    "isPim": true,
+                    "optionCode": "4615"
+                },
+                {
+                    "value": "Công nghệ Gold-Fin chống ăn mòn",
+                    "isPim": true,
+                    "optionCode": "380"
+                },
+                {
+                    "value": "Chế độ GEN mode",
+                    "isPim": true,
+                    "optionCode": "4614"
+                },
+                {
+                    "value": "Màn hình led",
+                    "isPim": true,
+                    "optionCode": "127"
+                },
+                {
+                    "value": "Chức năng tự chẩn đoán lỗi",
+                    "isPim": true,
+                    "optionCode": "372"
+                },
+                {
+                    "value": "Tự khởi động lại khi có điện",
+                    "isPim": true,
+                    "optionCode": "446"
+                },
+                {
+                    "value": "Chức năng tự làm sạch dàn lạnh",
+                    "isPim": true,
+                    "optionCode": "276"
+                },
+                {
+                    "value": "Hẹn giờ",
+                    "isPim": true,
+                    "optionCode": "74"
+                }
+            ],
+            "label": "Tiện ích",
+            "cmsCode": 34963,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        }
+    }
+}
