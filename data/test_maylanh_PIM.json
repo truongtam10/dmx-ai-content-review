@@ -53,7 +53,7 @@
             "label": "Nhà sản xuất",
             "cmsCode": null,
             "propertyType": "reference data single select",
-            "value": null,
+            "value": "TCL",
             "isPim": true
         },
         "manufacturing_country_code": {
@@ -159,7 +159,7 @@
             "label": "Từ khóa search",
             "cmsCode": null,
             "propertyType": "text",
-            "value": null,
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB, TCL, Máy lạnh 1 HP, Máy lạnh Inverter, Máy lạnh 1 chiều",
             "isPim": true
         },
         "cms_catgory_name": {
@@ -303,7 +303,7 @@
             "isPim": true
         },
         "product_articles": {
-            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB là giải pháp làm lạnh hiệu quả và tiết kiệm năng lượng cho không gian sống hiện đại. Thiết kế treo tường tinh tế, phù hợp với nhiều kiểu nội thất, mang lại vẻ đẹp sang trọng và gọn gàng cho căn phòng. Sản phẩm sử dụng gas R-32 thân thiện với môi trường, giúp giảm phát thải khí nhà kính và nâng cao hiệu suất làm lạnh.\n\nĐược trang bị công nghệ AI Inverter, máy lạnh TCL tối ưu hóa hoạt động của máy nén, duy trì nhiệt độ ổn định và giảm tiêu thụ điện năng đáng kể. Chế độ GEN mode hỗ trợ vận hành êm ái, tiết kiệm điện hơn so với các model thông thường. Đặc biệt, tính năng Siêu tiết kiệm điện T-AI giúp người dùng kiểm soát chi phí điện hiệu quả trong thời gian dài.\n\nMáy lạnh 1 chiều (chỉ làm lạnh) này sở hữu nhiều tiện ích thông minh như chế độ thổi gió dễ chịu, phù hợp với trẻ em và người lớn tuổi, đảo gió lên xuống tự động giúp phân phối luồng khí đều khắp phòng. Chức năng tự làm sạch dàn lạnh hạn chế vi khuẩn và nấm mốc, đảm bảo không khí luôn trong lành. Ngoài ra, sản phẩm còn tích hợp màn hình LED hiển thị rõ ràng, hẹn giờ bật/tắt, tự khởi động lại sau khi mất điện và chức năng tự chẩn đoán lỗi, hỗ trợ người dùng dễ dàng theo dõi và bảo trì.\n\nDàn trao đổi nhiệt được cấu tạo từ ống dẫn gas bằng đồng và lá tản nhiệt bằng nhôm phủ lớp Black Fin, kết hợp công nghệ Gold-Fin chống ăn mòn, tăng độ bền và hiệu quả tản nhiệt. Máy được sản xuất tại Trung Quốc, đi kèm chính sách bảo hành 3 năm cho linh kiện và 2 năm cho máy nén, đảm bảo an tâm trong quá trình sử dụng.",
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB thuộc dòng sản phẩm 2026, mang đến giải pháp làm lạnh hiệu quả và tiết kiệm năng lượng cho không gian sống hiện đại. Thiết kế treo tường tinh tế, phù hợp với nhiều kiểu nội thất, kết hợp cùng màn hình hiển thị nhiệt độ trên dàn lạnh giúp người dùng dễ dàng theo dõi và điều chỉnh nhiệt độ theo nhu cầu.\n\nSản phẩm được trang bị công nghệ AI Inverter và Turbo Cooling, cho phép làm lạnh nhanh chóng và duy trì nhiệt độ ổn định, đồng thời tối ưu mức tiêu thụ điện năng với chế độ siêu tiết kiệm điện T-AI. Công nghệ Inverter giúp vận hành êm ái, giảm tiếng ồn và tăng tuổi thọ cho máy nén, được bảo hành lên đến 12 năm, cùng với chính sách bảo hành linh kiện 3 năm.\n\nMáy sử dụng gas R-32 thân thiện với môi trường, hiệu suất làm lạnh cao hơn so với các loại gas truyền thống. Hệ thống trao đổi nhiệt được cấu tạo từ ống dẫn gas bằng đồng và lá tản nhiệt bằng nhôm phủ lớp Gold-Fin, giúp tăng khả năng chống ăn mòn, đặc biệt phù hợp với điều kiện khí hậu ẩm và có độ mặn cao.\n\nTCL TAC-BR10CSV/TB tích hợp nhiều tiện ích thông minh như chế độ Good Sleep hỗ trợ giấc ngủ ngon, chế độ GEN mode tiết kiệm điện tối ưu, đảo gió 4 chiều phân phối luồng khí đều khắp phòng và chức năng thổi gió dễ chịu, phù hợp cho trẻ em và người lớn tuổi. Máy cũng có chức năng tự làm sạch dàn lạnh, tự chẩn đoán lỗi, tự khởi động lại khi có điện và hẹn giờ bật/tắt linh hoạt.\n\nLưới lọc QuickClean với màng lọc mật độ cao 6 lớp Healthy6+ giúp loại bỏ bụi mịn, vi khuẩn và các tác nhân gây dị ứng, mang lại không khí trong lành. Hệ thống ống đồng có thể kéo dài từ 3 đến 20m (tiêu chuẩn 3–7m), với độ cao lắp đặt tối đa 10m, đáp ứng linh hoạt nhu cầu lắp đặt trong nhiều không gian khác nhau.",
             "label": "Bài viết sản phẩm",
             "propertyType": "text area",
             "isPim": true,
@@ -334,7 +334,7 @@
             "label": "Tags",
             "cmsCode": null,
             "propertyType": "text",
-            "value": "Máy lạnh TCL Inverter 1 HP, TCL, Máy lạnh 1 HP, Máy lạnh Inverter, Máy lạnh 1 chiều",
+            "value": "Máy lạnh TCL Inverter 1 HP TAC-BR10CSV/TB, TCL, Máy lạnh 1 HP, Máy lạnh Inverter, Máy lạnh 1 chiều",
             "isPim": false
         }
     },
@@ -349,55 +349,61 @@
             "label": "Key selling points",
             "cmsCode": null,
             "propertyType": "textarea",
-            "value": "Công suất làm lạnh: 1HP - 9600 BTU"
+            "value": null
         },
         "description_content": {
             "label": "Tính năng nổi bật",
             "cmsCode": null,
             "propertyType": "textarea",
-            "value": null
+            "value": "- Công nghệ Gentle Cool gió mát không lạnh buốt (Thổi gió dễ chịu (cho trẻ em, người già)\n- Đảo gió tự động 4 chiều\n- Siêu tiết kiệm điện T-AI\n- Công nghệ Gold-Fin chống ăn mòn\n- Dễ dàng tháo dỡ để vệ sinh - 4E Design\n- Chế độ GEN mode\n- Màn hình LED hiển thị nhiệt độ trên dàn lạnh\n- Hẹn giờ bật, tắt\n- Chức năng tự chẩn đoán lỗi\n- Chế độ ngủ ngon\n- Tự khởi động lại khi có điện\n- Chức năng tự làm sạch dàn lạnh"
         }
     },
     "specs": {
         "water_and_dust_resistant_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Màng lọc mật độ cao 6 lớp Healthy6+",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
             "label": "Chuẩn chống nước, bụi",
             "cmsCode": 6824,
             "propertyType": "options",
-            "value": null,
             "isPim": null,
             "optionCode": null
         },
         "inverter_type_dmxtskt_option": {
-            "value": "Không có",
-            "isPim": true,
-            "optionCode": "18",
             "label": "Loại Inverter",
             "cmsCode": 6820,
-            "propertyType": "option"
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
         },
         "wind_mode_dmxtskt_option": {
-            "value": "Đảo gió lên xuống tự động",
+            "value": "Đảo gió 4 chiều",
             "isPim": true,
-            "optionCode": "1",
+            "optionCode": "4",
             "label": "Chế độ gió",
             "cmsCode": 6825,
             "propertyType": "option"
         },
         "made_in_dmxtskt_option": {
-            "value": "Trung Quốc",
-            "isPim": true,
-            "optionCode": "3",
+            "value": null,
+            "isPim": false,
+            "optionCode": null,
             "label": "Sản xuất tại",
             "cmsCode": 6834,
             "propertyType": "option"
         },
         "product_line_dmxtskt_option": {
+            "value": "2026",
+            "isPim": true,
+            "optionCode": "13",
             "label": "Dòng sản phẩm",
             "cmsCode": 6990,
-            "propertyType": "option",
-            "value": null,
-            "isPim": null,
-            "optionCode": null
+            "propertyType": "option"
         },
         "scope_of_use_dmxtskt_option": {
             "label": "Phạm vi sử dụng",
@@ -408,9 +414,9 @@
             "optionCode": null
         },
         "cooling_technology_dmxtskt_option": {
-            "value": "Không",
+            "value": "Turbo Cooling",
             "isPim": true,
-            "optionCode": "2",
+            "optionCode": "28",
             "label": "Công nghệ làm lạnh",
             "cmsCode": 7144,
             "propertyType": "option"
@@ -424,9 +430,9 @@
             "propertyType": "option"
         },
         "engine_warranty_dmxtskt_option": {
-            "value": "Máy nén 2 năm",
+            "value": "3 năm (máy nén 12 năm)",
             "isPim": true,
-            "optionCode": "1",
+            "optionCode": "7",
             "label": "Bảo hành động cơ",
             "cmsCode": 7599,
             "propertyType": "option"
@@ -440,12 +446,12 @@
             "propertyType": "option"
         },
         "type_of_machine_dmxtskt_option": {
-            "value": "Máy lạnh 1 chiều (chỉ làm lạnh)",
-            "isPim": true,
-            "optionCode": "3",
             "label": "Loại máy",
             "cmsCode": 8461,
-            "propertyType": "option"
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
         },
         "output_power_dmxtskt_option": {
             "value": "1 HP",
@@ -473,7 +479,7 @@
             "label": "Điện năng tiêu thụ",
             "cmsCode": 8901,
             "propertyType": "textarea",
-            "value": "2813 W"
+            "value": null
         },
         "utilities_dmxtskt_options": {
             "value": [
@@ -481,6 +487,11 @@
                     "value": "Thổi gió dễ chịu (cho trẻ em, người già)",
                     "isPim": true,
                     "optionCode": "445"
+                },
+                {
+                    "value": "Chức năng hẹn giờ  (từ 1",
+                    "isPim": true,
+                    "optionCode": "2718"
                 },
                 {
                     "value": "Siêu tiết kiệm điện T-AI",
@@ -498,14 +509,24 @@
                     "optionCode": "4614"
                 },
                 {
-                    "value": "Màn hình led",
+                    "value": "Màn hình hiển thị nhiệt độ trên dàn lạnh",
                     "isPim": true,
-                    "optionCode": "127"
+                    "optionCode": "453"
+                },
+                {
+                    "value": "Hẹn giờ bật/tắt",
+                    "isPim": true,
+                    "optionCode": "1085"
                 },
                 {
                     "value": "Chức năng tự chẩn đoán lỗi",
                     "isPim": true,
                     "optionCode": "372"
+                },
+                {
+                    "value": "Chế độ ngủ ngon Good Sleep",
+                    "isPim": true,
+                    "optionCode": "305"
                 },
                 {
                     "value": "Tự khởi động lại khi có điện",
@@ -518,9 +539,19 @@
                     "optionCode": "276"
                 },
                 {
-                    "value": "Hẹn giờ",
+                    "value": "Inverter tiết kiệm điện",
                     "isPim": true,
-                    "optionCode": "74"
+                    "optionCode": "75"
+                },
+                {
+                    "value": "Hẹn giờ bật tắt máy",
+                    "isPim": true,
+                    "optionCode": "100"
+                },
+                {
+                    "value": "Lưới Lọc QuickClean làm sạch nhanh",
+                    "isPim": true,
+                    "optionCode": "92"
                 }
             ],
             "label": "Tiện ích",
@@ -536,9 +567,9 @@
             "value": "5 sao -5.34"
         },
         "long_copper_pipe_dmxtskt_option": {
-            "value": "Tiêu chuẩn 5 - 8m - Tối thiểu 3m - Tối đa 15m",
+            "value": "Tiêu chuẩn 3 - 7m - Tối thiểu 3m - Tối đa 20m",
             "isPim": true,
-            "optionCode": "14",
+            "optionCode": "11",
             "label": "Dài ống đồng",
             "cmsCode": 10959,
             "propertyType": "option"
@@ -552,9 +583,9 @@
             "propertyType": "option"
         },
         "heat_exchanger_material_dmxtskt_option": {
-            "value": "Ống dẫn gas bằng Đồng - Lá tản nhiệt bằng Nhôm được phủ lớp Black Fin",
+            "value": "Ống dẫn gas bằng Đồng - Lá tản nhiệt bằng Nhôm phủ lớp Gold-Fin",
             "isPim": true,
-            "optionCode": "1",
+            "optionCode": "34",
             "label": "Chất liệu dàn tản nhiệt",
             "cmsCode": 16160,
             "propertyType": "option"
@@ -563,12 +594,12 @@
             "label": "Độ ồn",
             "cmsCode": 21270,
             "propertyType": "textarea",
-            "value": "Dàn lạnh: 37/34/31 dB - Dàn nóng: 49 dB"
+            "value": "Dàn lạnh: 37/34/31 dB - Dàn nóng: 49Db"
         },
         "input_current_dmxtskt_option": {
-            "value": "Dàn nóng hoặc dàn lạnh",
-            "isPim": true,
-            "optionCode": "1",
+            "value": "1 pha, 220-240V~/50Hz/1P",
+            "isPim": false,
+            "optionCode": null,
             "label": "Dòng điện vào",
             "cmsCode": 21271,
             "propertyType": "option"
@@ -611,7 +642,7 @@
             "label": "Khối lượng phụ kiện chính",
             "cmsCode": 27031,
             "propertyType": "textarea",
-            "value": "8"
+            "value": "8kg"
         },
         "high_accessories_dmxtskt_textarea": {
             "label": "Cao phụ kiện phụ",
@@ -635,7 +666,7 @@
             "label": "Khối lượng phụ kiện phụ",
             "cmsCode": 27035,
             "propertyType": "textarea",
-            "value": "18,5"
+            "value": "18.5kg"
         },
         "main_accessory_height_2_dmxtskt_textarea": {
             "label": "Cao phụ kiện chính 2",
@@ -659,7 +690,7 @@
             "label": "Khối lượng máy",
             "cmsCode": 34085,
             "propertyType": "textarea",
-            "value": "8kg - 18,5kg"
+            "value": "8kg"
         },
         "operating_current_dmxtskt_option": {
             "value": "4.0A",
@@ -670,15 +701,21 @@
             "propertyType": "option"
         },
         "output_power_dmxfilter": {
-            "value": null,
+            "value": "1 HP",
             "label": "Công suất đầu ra",
             "cmsCode": 43478,
             "propertyType": "options",
-            "isPim": null,
-            "optionCode": null
+            "isPim": true,
+            "optionCode": "1128"
         },
         "inverter_technology_dmxfilter": {
-            "value": null,
+            "value": [
+                {
+                    "value": "Có",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
             "label": "Công nghệ Inverter",
             "cmsCode": 9182,
             "propertyType": "options",
@@ -700,16 +737,10 @@
             "optionCode": null
         },
         "type_of_machine_dmxfilter": {
-            "value": [
-                {
-                    "value": "1 chiều",
-                    "isPim": false,
-                    "optionCode": null
-                }
-            ],
             "label": "Loại máy",
             "cmsCode": 34962,
             "propertyType": "options",
+            "value": null,
             "isPim": null,
             "optionCode": null
         },
@@ -719,6 +750,11 @@
                     "value": "Thổi gió dễ chịu (cho trẻ em, người già)",
                     "isPim": true,
                     "optionCode": "445"
+                },
+                {
+                    "value": "Chức năng hẹn giờ  (từ 1",
+                    "isPim": true,
+                    "optionCode": "2718"
                 },
                 {
                     "value": "Siêu tiết kiệm điện T-AI",
@@ -736,14 +772,24 @@
                     "optionCode": "4614"
                 },
                 {
-                    "value": "Màn hình led",
+                    "value": "Màn hình hiển thị nhiệt độ trên dàn lạnh",
                     "isPim": true,
-                    "optionCode": "127"
+                    "optionCode": "453"
+                },
+                {
+                    "value": "Hẹn giờ bật/tắt",
+                    "isPim": true,
+                    "optionCode": "1085"
                 },
                 {
                     "value": "Chức năng tự chẩn đoán lỗi",
                     "isPim": true,
                     "optionCode": "372"
+                },
+                {
+                    "value": "Chế độ ngủ ngon Good Sleep",
+                    "isPim": true,
+                    "optionCode": "305"
                 },
                 {
                     "value": "Tự khởi động lại khi có điện",
@@ -756,9 +802,19 @@
                     "optionCode": "276"
                 },
                 {
-                    "value": "Hẹn giờ",
+                    "value": "Inverter tiết kiệm điện",
                     "isPim": true,
-                    "optionCode": "74"
+                    "optionCode": "75"
+                },
+                {
+                    "value": "Hẹn giờ bật tắt máy",
+                    "isPim": true,
+                    "optionCode": "100"
+                },
+                {
+                    "value": "Lưới Lọc QuickClean làm sạch nhanh",
+                    "isPim": true,
+                    "optionCode": "92"
                 }
             ],
             "label": "Tiện ích",

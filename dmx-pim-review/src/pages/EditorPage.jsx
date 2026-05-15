@@ -60,8 +60,9 @@ export default function EditorPage() {
   };
 
   const SAMPLES = [
-    { label: 'Mẫu máy lạnh', file: 'data/test_maylanh_PIM.json' },
-    { label: 'Mẫu TV',       file: 'data/tv.json' },
+    { label: 'Mẫu máy lạnh',     file: 'data/test_maylanh_PIM.json' },
+    { label: 'Mẫu TV',           file: 'data/tv.json' },
+    { label: 'Mẫu máy lọc nước', file: 'data/test_mayloc_PIM.json' },
   ];
 
   const handleLoadSample = async (file) => {
