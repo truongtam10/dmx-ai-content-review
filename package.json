@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "dev": "npm run dev --prefix dmx-pim-review",
+    "build": "npm run build --prefix dmx-pim-review",
+    "preview": "npm run preview --prefix dmx-pim-review",
+    "deploy": "npm run deploy --prefix dmx-pim-review"
   },
   "dependencies": {
     "@monaco-editor/react": "^4.7.0",
