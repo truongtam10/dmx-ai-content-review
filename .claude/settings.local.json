@@ -11,7 +11,19 @@
       "Bash(node scripts/validate-pim-data.js)",
       "Bash(echo \"Exit: $?\")",
       "Bash(npm ls *)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(mkdir -p \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src/pages\")",
+      "Bash(cp \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/src/pages/ReviewPage.jsx\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src/pages/ReviewPage.tsx\")",
+      "Bash(cp \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/src/pages/EditorPage.jsx\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src/pages/EditorPage.tsx\")",
+      "Bash(cp -r \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/src/components\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src/\")",
+      "Bash(cp -r \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/src/hooks\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src/\")",
+      "Bash(cp -r \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/src/utils\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src/\")",
+      "Bash(mkdir -p \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/public/data\")",
+      "Bash(cp \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/data/test_maylanh_PIM.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/public/data/test_maylanh_PIM.json\")",
+      "Bash(rm -rf \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src\")",
+      "Bash(rm -f \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/index.html\")",
+      "Bash(rm -rf \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/public\")",
+      "Bash(rm -f \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/vite.config.ts\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/eslint.config.js\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.app.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.node.json\")"
     ],
     "additionalDirectories": [
       "/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/.claude"
