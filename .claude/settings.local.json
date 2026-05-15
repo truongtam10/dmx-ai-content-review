@@ -23,10 +23,12 @@
       "Bash(rm -rf \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/src\")",
       "Bash(rm -f \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/index.html\")",
       "Bash(rm -rf \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/public\")",
-      "Bash(rm -f \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/vite.config.ts\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/eslint.config.js\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.app.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.node.json\")"
+      "Bash(rm -f \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/vite.config.ts\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/eslint.config.js\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.app.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/tsconfig.node.json\")",
+      "Bash(cp \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/data/tv.json\" \"/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/dmx-pim-review/public/data/tv.json\" && echo \"done\")"
     ],
     "additionalDirectories": [
-      "/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/.claude"
+      "/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/.claude",
+      "/Users/tamnguyen/Vibe Prj/dmx-ai-content-review/data"
     ]
   }
 }
