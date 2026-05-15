@@ -462,6 +462,13 @@ input, textarea, select { font-family: var(--font); }
   user-select: none;
 }
 
+.chip-icon {
+  width: 22px;
+  height: 22px;
+  margin-bottom: 6px;
+  opacity: 0.85;
+}
+
 .chip-count {
   font-size: 30px;
   font-weight: 800;
@@ -478,6 +485,7 @@ input, textarea, select { font-family: var(--font); }
 }
 
 .chip-green  { background: var(--green-light);              color: var(--green-text); }
+.chip-purple { background: var(--purple-light);             color: var(--purple-text); }
 .chip-orange { background: var(--orange-light);             color: var(--orange-text); }
 .chip-red    { background: var(--red-light);                color: var(--red-text); }
 .chip-yellow { background: var(--yellow-light);             color: var(--yellow-text); }
@@ -607,8 +615,14 @@ td {
 /* Column: Mã thuộc tính */
 .col-code {}
 
+.code-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+
 .attr-code {
-  display: block;
   font-family: var(--font-mono);
   font-size: 11px;
   color: var(--blue);
@@ -616,9 +630,29 @@ td {
   padding: 3px 8px;
   border-radius: 6px;
   word-break: break-all;
-  margin-bottom: 4px;
   line-height: 1.5;
+  flex: 1;
+  min-width: 0;
 }
+
+.btn-copy {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border: none;
+  background: transparent;
+  color: var(--text-tertiary);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: var(--transition);
+  padding: 0;
+}
+.btn-copy svg { width: 13px; height: 13px; }
+.btn-copy:hover { background: var(--surface3); color: var(--blue); }
+.btn-copy-done { color: var(--green-text) !important; background: var(--green-light) !important; }
 
 /* Column: Thuộc tính */
 .attr-label {
