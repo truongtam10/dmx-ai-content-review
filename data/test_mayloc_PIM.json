@@ -1,0 +1,937 @@
+{
+    "general": {
+        "manu_component_code": {
+            "label": "Mã số linh kiện của NSX",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "no_imei": {
+            "label": "Mã sản phẩm No-IMEI",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "product_type": {
+            "label": "Phân loại sản phẩm",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "product_type_list": {
+            "label": "Phân loại sản phẩm",
+            "cmsCode": null,
+            "propertyType": "multi select",
+            "value": null,
+            "isPim": true
+        },
+        "user_manual_image": {
+            "label": "Giấy hướng dẫn sử dụng",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "certified_declaration": {
+            "label": "Giấy công bố cục chứng nhận",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "other_genuine_declaration": {
+            "label": "Giấy công bố chính hãng khác",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "manufacture_code": {
+            "label": "Nhà sản xuất",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": "Toshiba",
+            "isPim": true
+        },
+        "manufacturing_country_code": {
+            "label": "Nơi sản xuất",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": "Trung Quốc",
+            "isPim": true
+        },
+        "key_features": {
+            "label": "Đặc điểm nổi bật",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": "Thiết kế đun nóng ngoài, chống bám cặn và rò điện",
+            "isPim": true
+        },
+        "brand_id": {
+            "label": "Thương hiệu",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "month_warranty": 24,
+        "display_order": {
+            "label": "Thứ tự hiển thị của SKU trong model",
+            "cmsCode": null,
+            "propertyType": "number",
+            "value": null,
+            "isPim": true
+        },
+        "cms_category_id": {
+            "label": "Ngành hàng CMS",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "size_choosing_instruction": {
+            "label": "Bảng size",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "using_instruction": {
+            "label": "Hướng dẫn sử dụng và bảo quản",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": null,
+            "isPim": true
+        },
+        "display_order_priority": {
+            "label": "Thứ tự sắp xếp nổi bật của sản phẩm",
+            "cmsCode": null,
+            "propertyType": "number",
+            "value": null,
+            "isPim": true
+        },
+        "arrival_day": {
+            "label": "Ngày hàng về",
+            "cmsCode": null,
+            "propertyType": "date",
+            "value": "2025-09-01",
+            "isPim": true
+        },
+        "association_code": {
+            "label": "Mã liên kết sản phẩm combo",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "is_combo": {
+            "label": "Là sản phẩm combo",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "product_type_business": {
+            "label": "Loại sản phẩm",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "model_id_cms": {
+            "label": "Mã sản phẩm CMS của model",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "cms_manufacturerid": {
+            "label": "Mã nhà sản xuất",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "keyword_search": {
+            "label": "Từ khóa search",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lọc nước RO tủ đứng Toshiba 10 lõi, Toshiba, Máy lọc nước RO, Máy lọc nước 10 lõi",
+            "isPim": true
+        },
+        "cms_catgory_name": {
+            "label": "Tên ngành hàng CMS",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "product_name": {
+            "label": "Tên model",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lọc nước RO tủ đứng Toshiba TWP-NA1SVN(K) 10 lõi",
+            "isPim": true
+        },
+        "sku": {
+            "label": "Mã sản phẩm ERP",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "1114171000218",
+            "isPim": true
+        },
+        "image": {
+            "label": "Hình đại diện của model",
+            "cmsCode": null,
+            "propertyType": "image",
+            "value": null,
+            "isPim": true
+        },
+        "product_shortname_sku": {
+            "label": "Tên rút gọn hiển thị box sản phẩm của SKU",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TWP-NA1SVN(K)",
+            "isPim": true
+        },
+        "product_name_sku": {
+            "label": "Tên của SKU hiển thị trang chi tiết",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lọc nước RO tủ đứng Toshiba TWP-NA1SVN(K) 10 lõi",
+            "isPim": true
+        },
+        "product_id_cms": {
+            "label": "Mã sản phẩm Web",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": null,
+            "isPim": true
+        },
+        "short_name": {
+            "label": "Tên rút gọn",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TWP-NA1SVN(K)",
+            "isPim": true
+        },
+        "brand_code": {
+            "label": "Thương hiệu",
+            "cmsCode": null,
+            "propertyType": "reference data single select",
+            "value": null,
+            "isPim": true
+        },
+        "seo_name": {
+            "label": "Tên thương mại",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lọc nước RO tủ đứng Toshiba TWP-NA1SVN(K) 10 lõi",
+            "isPim": true
+        },
+        "is_sold_independently": {
+            "label": "Là sản phẩm bán độc lập?",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "url": {
+            "label": "URL",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "ro-tu-dung-toshiba-na1svn-k-10-loi",
+            "isPim": true
+        },
+        "product_type_dmx": {
+            "label": "Loại sản phẩm (Thợ ĐMX)",
+            "cmsCode": null,
+            "propertyType": "simple select",
+            "value": null,
+            "isPim": true
+        },
+        "product_short_name": {
+            "label": "Tên viết tắt",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TWP-NA1SVN(K)",
+            "isPim": true
+        },
+        "base_uom": {
+            "label": "ĐVT cơ sở",
+            "cmsCode": null,
+            "propertyType": "measurement",
+            "value": null,
+            "isPim": true
+        },
+        "item_code": {
+            "label": "Model",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "TWP-NA1SVN(K)",
+            "isPim": true
+        },
+        "key_selling_points": {
+            "label": "Đặc điểm sản phẩm",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": "Thiết kế đun nóng ngoài, chống bám cặn và rò điện",
+            "isPim": true
+        },
+        "is_average_cost_price": {
+            "label": "Tính bình quân gia quyền",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "short_product_articles": {
+            "label": "Mô tả ngắn sản phẩm",
+            "cmsCode": null,
+            "propertyType": "text area",
+            "value": null,
+            "isPim": true
+        },
+        "is_service": {
+            "label": "Sản phẩm dịch vụ",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "product_articles": {
+            "value": "Máy lọc nước RO tủ đứng Toshiba TWP-NA1SVN(K) 10 lõi là sản phẩm công nghệ lọc nước tiên tiến, được thiết kế dành cho không gian hiện đại với kiểu dáng tủ đứng sang trọng, phù hợp lắp đặt tại gia đình, văn phòng hoặc khu vực sinh hoạt công cộng. Sản phẩm đến từ thương hiệu Nhật Bản, được sản xuất tại Trung Quốc, kết hợp giữa tiêu chuẩn chất lượng quốc tế và khả năng vận hành ổn định trong điều kiện thực tế tại Việt Nam.\n\nMáy được trang bị hệ thống lọc 10 lõi tiên tiến, trong đó lõi RO DOW 100 GPD sản xuất tại Mỹ đảm bảo hiệu suất lọc vượt trội, loại bỏ đến 99,9% tạp chất, kim loại nặng, vi khuẩn và virus. Công nghệ lọc tách bụi Air-X giúp tăng hiệu quả xử lý bụi mịn và cặn bẩn trong nước đầu vào. Các lõi chức năng gồm Tourmaline, Maifan, ORP Hydrogen Plus, Alkaline và Nano Silver hỗ trợ tạo nước kiềm với độ pH từ 8.0 - 8.9, trung hòa axit trong cơ thể, ổn định độ ngọt tự nhiên và mang lại lợi ích cho sức khỏe người dùng.\n\nToshiba TWP-NA1SVN(K) cung cấp 4 loại nước: nước kiềm, nước tinh khiết nóng, nguội và lạnh, đáp ứng đa dạng nhu cầu sử dụng hàng ngày. Hệ thống bơm 2 chiều cùng van điện tử và nút vặn điều khiển bằng tiếng Việt giúp vận hành dễ dàng, ổn định. Máy tự động ngừng hoạt động khi nước đầy bình, khi áp lực nước cấp không đủ hoặc khi nước cấp bị thiếu, đảm bảo an toàn và tiết kiệm năng lượng.\n\nVới chế độ cút nối nhanh, việc lắp đặt trở nên thuận tiện, tiết kiệm thời gian và công sức. Tỷ lệ lọc - thải 5:5 (phụ thuộc chất lượng nước đầu vào) giúp cân bằng hiệu suất và tiêu hao nước. Để đạt chỉ số pH công bố, nước đầu vào nên đạt tiêu chuẩn QCVN 01:1-2018/BYT. Sản phẩm đi kèm bảo hành điện tử 24 tháng, mang lại sự an tâm cho người tiêu dùng.",
+            "label": "Bài viết sản phẩm",
+            "propertyType": "text area",
+            "isPim": true,
+            "cmsCode": null
+        },
+        "is_request_imei": {
+            "label": "Yêu cầu nhập IMEI",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "is_base_product": {
+            "label": "Là sản phẩm cơ sở",
+            "cmsCode": null,
+            "propertyType": "yes/no",
+            "value": null,
+            "isPim": true
+        },
+        "release_date": {
+            "label": "Ngày ra mắt",
+            "cmsCode": null,
+            "propertyType": "date",
+            "value": null,
+            "isPim": false
+        },
+        "tags": {
+            "label": "Tags",
+            "cmsCode": null,
+            "propertyType": "text",
+            "value": "Máy lọc nước RO tủ đứng Toshiba 10 lõi, Toshiba, Máy lọc nước RO, Máy lọc nước 10 lõi",
+            "isPim": false
+        }
+    },
+    "content": {
+        "shortDescription_content": {
+            "label": "Thông tin nhanh",
+            "cmsCode": null,
+            "propertyType": "textarea",
+            "value": null
+        },
+        "hotReason_content": {
+            "label": "Key selling points",
+            "cmsCode": null,
+            "propertyType": "textarea",
+            "value": "Thiết kế đun nóng ngoài, chống bám cặn và rò điện"
+        },
+        "description_content": {
+            "label": "Tính năng nổi bật",
+            "cmsCode": null,
+            "propertyType": "textarea",
+            "value": null
+        }
+    },
+    "specs": {
+        "product_type_dmxtskt_option": {
+            "value": "Máy lọc nước RO",
+            "isPim": true,
+            "optionCode": "144",
+            "label": "Loại sản phẩm",
+            "cmsCode": 11659,
+            "propertyType": "option"
+        },
+        "capacity_dmxtskt_option": {
+            "label": "Dung lượng dung tích",
+            "cmsCode": 11661,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "antibacterial_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Nano Silver",
+                    "isPim": true,
+                    "optionCode": "4"
+                }
+            ],
+            "label": "Kháng khuẩn",
+            "cmsCode": 11663,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "brand_of_dmxtskt_option": {
+            "value": "Nhật Bản",
+            "isPim": true,
+            "optionCode": "6",
+            "label": "Thương hiệu của",
+            "cmsCode": 11665,
+            "propertyType": "option"
+        },
+        "made_in_dmxtskt_option": {
+            "value": "Trung Quốc",
+            "isPim": true,
+            "optionCode": "3",
+            "label": "Sản xuất tại",
+            "cmsCode": 11666,
+            "propertyType": "option"
+        },
+        "pump_and_control_valve_system_dmxtskt_option": {
+            "value": "Bơm 2 chiều, van điện tử",
+            "isPim": true,
+            "optionCode": "2",
+            "label": "Hệ thống bơm và van điều tiết",
+            "cmsCode": 12199,
+            "propertyType": "option"
+        },
+        "utilities_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Tự động báo thay lõi",
+                    "isPim": true,
+                    "optionCode": "1786"
+                },
+                {
+                    "value": "Ngừng hoạt động khi nước đầy bình",
+                    "isPim": true,
+                    "optionCode": "1771"
+                },
+                {
+                    "value": "Tạo nước kiềm (Alkaline) trung hòa axit cho cơ thể",
+                    "isPim": true,
+                    "optionCode": "1780"
+                },
+                {
+                    "value": "Trung hòa độ pH ổn định độ ngọt cho nước",
+                    "isPim": true,
+                    "optionCode": "1776"
+                },
+                {
+                    "value": "Truyền nhiệt nhanh, tiết kiệm điện, tiết kiệm thời gian",
+                    "isPim": true,
+                    "optionCode": "4085"
+                },
+                {
+                    "value": "Ngừng hoạt động khi nước cấp không đủ",
+                    "isPim": true,
+                    "optionCode": "1889"
+                },
+                {
+                    "value": "Tự động ngừng hoạt động khi nước đầy bình",
+                    "isPim": false,
+                    "optionCode": null
+                },
+                {
+                    "value": "Chế độ cút nối nhanh, tiết kiệm thời gian, công sức lắp đặt",
+                    "isPim": false,
+                    "optionCode": null
+                },
+                {
+                    "value": "Tự động ngừng hoạt động khi áp lực nước cấp không đủ.",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
+            "label": "Tiện ích",
+            "cmsCode": 13107,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "technology_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Công nghệ lọc tách bụi Air-X",
+                    "isPim": true,
+                    "optionCode": "672"
+                }
+            ],
+            "label": "Công nghệ",
+            "cmsCode": 13165,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "number_of_filter_cores_dmxtskt_option": {
+            "value": "10 lõi",
+            "isPim": true,
+            "optionCode": "9",
+            "label": "Số lõi lọc",
+            "cmsCode": 13766,
+            "propertyType": "option"
+        },
+        "release_date_dmxtskt_option": {
+            "value": "2025",
+            "isPim": true,
+            "optionCode": "16",
+            "label": "Thời gian ra mắt",
+            "cmsCode": 19600,
+            "propertyType": "option"
+        },
+        "installation_type_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Tủ đứng",
+                    "isPim": true,
+                    "optionCode": "2"
+                }
+            ],
+            "label": "Kiểu lắp đặt",
+            "cmsCode": 20788,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "electricity_consumption_dmxtskt_textarea": {
+            "label": "Điện năng tiêu thụ",
+            "cmsCode": 21276,
+            "propertyType": "textarea",
+            "value": "0.025 kW/h"
+        },
+        "coarse_filter_type_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Lõi 1: PP 5 micron (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "57"
+                },
+                {
+                    "value": "Lõi 2: CTO (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "46"
+                },
+                {
+                    "value": "Lõi 3: PP 1 micron (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "86"
+                }
+            ],
+            "label": "Loại lõi lọc thô",
+            "cmsCode": 25479,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "functional_core_dmxtskt_options": {
+            "value": [
+                {
+                    "value": "Lõi 5: Tourmaline (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "304"
+                },
+                {
+                    "value": "Lõi 6: Maifan (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "84"
+                },
+                {
+                    "value": "Lõi 7: ORP Hydrogen Plus (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "302"
+                },
+                {
+                    "value": "Lõi 8: Alkaline ( Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "297"
+                },
+                {
+                    "value": "Lõi 10: Nano Silver (Sx Trung Quốc)",
+                    "isPim": true,
+                    "optionCode": "232"
+                }
+            ],
+            "label": "Lõi chức năng",
+            "cmsCode": 25480,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "filtrationtodischarge_ratio_dmxtskt_option": {
+            "value": "Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào)",
+            "isPim": true,
+            "optionCode": "7",
+            "label": "Tỷ lệ lọc - thải",
+            "cmsCode": 25481,
+            "propertyType": "option"
+        },
+        "pump_manufacturing_location_dmxtskt_option": {
+            "value": "Trung Quốc",
+            "isPim": true,
+            "optionCode": "1",
+            "label": "Nơi sản xuất máy bơm",
+            "cmsCode": 25483,
+            "propertyType": "option"
+        },
+        "cooling_system_dmxtskt_option": {
+            "label": "Hệ thống làm lạnh",
+            "cmsCode": 25783,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "hot_water_temperature_dmxtskt_option": {
+            "label": "Nhiệt độ nước nóng",
+            "cmsCode": 26837,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "cold_water_temperature_dmxtskt_option": {
+            "label": "Nhiệt độ nước lạnh",
+            "cmsCode": 26838,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "horizontal_dmxtskt_textarea": {
+            "label": "Ngang",
+            "cmsCode": 26856,
+            "propertyType": "textarea",
+            "value": "31"
+        },
+        "high_dmxtskt_textarea": {
+            "label": "Cao",
+            "cmsCode": 26857,
+            "propertyType": "textarea",
+            "value": "107"
+        },
+        "deep_dmxtskt_textarea": {
+            "label": "Sâu",
+            "cmsCode": 26858,
+            "propertyType": "textarea",
+            "value": "40.6"
+        },
+        "machine_weight_dmxtskt_textarea": {
+            "label": "Khối lượng máy",
+            "cmsCode": 27000,
+            "propertyType": "textarea",
+            "value": "22,7"
+        },
+        "ronanouf_core_dmxtskt_option": {
+            "value": "RO DOW 100 GPD sản xuất Mỹ",
+            "isPim": true,
+            "optionCode": "33",
+            "label": "Lõi RO/Nano/UF",
+            "cmsCode": 27258,
+            "propertyType": "option"
+        },
+        "prefilter_dmxtskt_options": {
+            "label": "Bộ tiền lọc",
+            "cmsCode": 28319,
+            "propertyType": "options",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "fine_filter_core_dmxtskt_options": {
+            "label": "Lõi lọc tinh",
+            "cmsCode": 28320,
+            "propertyType": "options",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "lifespan_of_the_fine_filter_core_dmxtskt_option": {
+            "label": "Tuổi thọ lõi lọc tinh",
+            "cmsCode": 28321,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "control_panel_dmxtskt_option": {
+            "value": "Nút vặn",
+            "isPim": true,
+            "optionCode": "27",
+            "label": "Bảng điều khiển",
+            "cmsCode": 28322,
+            "propertyType": "option"
+        },
+        "number_of_electrodes_dmxtskt_option": {
+            "label": "Số điện cực",
+            "cmsCode": 28323,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "electrode_lifespan_dmxtskt_option": {
+            "label": "Tuổi thọ điện cực",
+            "cmsCode": 28324,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "electrolysis_method_dmxtskt_option": {
+            "label": "Phương pháp điện phân",
+            "cmsCode": 28325,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "ph_level_dmxtskt_option": {
+            "label": "Độ pH",
+            "cmsCode": 28327,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "hydrogen_index_dmxtskt_option": {
+            "label": "Chỉ số Hydrogen",
+            "cmsCode": 28328,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "antioxidant_index_orp_dmxtskt_option": {
+            "label": "Chỉ số chống oxy hóa ORP",
+            "cmsCode": 28329,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "number_of_water_types_dmxtskt_option": {
+            "value": "4 loại: nước kiềm (1 mức), nước tinh khiết (nóng - nguội - lạnh)",
+            "isPim": true,
+            "optionCode": "13",
+            "label": "Số loại nước",
+            "cmsCode": 28330,
+            "propertyType": "option"
+        },
+        "operating_water_pressure_dmxtskt_option": {
+            "value": "0.1 - 0.4 MPa",
+            "isPim": true,
+            "optionCode": "77",
+            "label": "Áp lực nước hoạt động",
+            "cmsCode": 28331,
+            "propertyType": "option"
+        },
+        "electrode_cleaning_mode_dmxtskt_options": {
+            "label": "Chế độ vệ sinh điện cực",
+            "cmsCode": 28332,
+            "propertyType": "options",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "actual_hot_water_temperature_dmxtskt_option": {
+            "label": "Nhiệt độ nước nóng thực tế",
+            "cmsCode": 34900,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "actual_cold_water_temperature_dmxtskt_option": {
+            "label": "Nhiệt độ nước lạnh thực tế",
+            "cmsCode": 34901,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "actual_temperature_dmxtskt_option": {
+            "label": "Nhiệt độ thực tế",
+            "cmsCode": 34952,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "language_dmxtskt_option": {
+            "value": "Tiếng Việt",
+            "isPim": true,
+            "optionCode": "1",
+            "label": "Ngôn ngữ",
+            "cmsCode": 35823,
+            "propertyType": "option"
+        },
+        "actual_ph_dmxtskt_option": {
+            "value": "8.0 - 8.9 pH",
+            "isPim": false,
+            "optionCode": null,
+            "label": "pH thực tế",
+            "cmsCode": 36018,
+            "propertyType": "option"
+        },
+        "note_dmxtskt_option": {
+            "value": "Để chỉ số đạt mức công bố, nước đầu vào nên là nước sạch sử dụng cho mục đích sinh hoạt theo tiêu chuẩn QCVN 01:1-2018/BYT (pH ~7)",
+            "isPim": true,
+            "optionCode": "10",
+            "label": "Lưu ý",
+            "cmsCode": 36019,
+            "propertyType": "option"
+        },
+        "output_power_dmxtskt_option": {
+            "label": "Công suất đầu ra",
+            "cmsCode": 36335,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "electrical_warranty_dmxtskt_option": {
+            "value": "24",
+            "isPim": true,
+            "optionCode": "3",
+            "label": "Bảo hành phần điện",
+            "cmsCode": 41078,
+            "propertyType": "option"
+        },
+        "main_frame_warranty_dmxtskt_option": {
+            "label": "Bảo hành khung chính",
+            "cmsCode": 41079,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "component_warranty_dmxtskt_option": {
+            "label": "Bảo hành linh kiện",
+            "cmsCode": 41080,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "engine_warranty_dmxtskt_option": {
+            "label": "Bảo hành động cơ",
+            "cmsCode": 41081,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "parts_warranty_dmxtskt_option": {
+            "label": "Bảo hành bộ phận",
+            "cmsCode": 41082,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "applicable_period_dmxtskt_option": {
+            "label": "Thời gian áp dụng",
+            "cmsCode": 46401,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "see_the_old_policy_for_more_details_dmxtskt_option": {
+            "label": "Xem thêm chính sách cũ",
+            "cmsCode": 46558,
+            "propertyType": "option",
+            "value": null,
+            "isPim": null,
+            "optionCode": null
+        },
+        "utilities_dmxfilter": {
+            "value": [
+                {
+                    "value": "Tự động báo thay lõi",
+                    "isPim": true,
+                    "optionCode": "1786"
+                },
+                {
+                    "value": "Ngừng hoạt động khi nước đầy bình",
+                    "isPim": true,
+                    "optionCode": "1771"
+                },
+                {
+                    "value": "Tạo nước kiềm (Alkaline) trung hòa axit cho cơ thể",
+                    "isPim": true,
+                    "optionCode": "1780"
+                },
+                {
+                    "value": "Trung hòa độ pH ổn định độ ngọt cho nước",
+                    "isPim": true,
+                    "optionCode": "1776"
+                },
+                {
+                    "value": "Truyền nhiệt nhanh, tiết kiệm điện, tiết kiệm thời gian",
+                    "isPim": true,
+                    "optionCode": "4085"
+                },
+                {
+                    "value": "Ngừng hoạt động khi nước cấp không đủ",
+                    "isPim": true,
+                    "optionCode": "1889"
+                },
+                {
+                    "value": "Tự động ngừng hoạt động khi nước đầy bình",
+                    "isPim": false,
+                    "optionCode": null
+                },
+                {
+                    "value": "Chế độ cút nối nhanh, tiết kiệm thời gian, công sức lắp đặt",
+                    "isPim": false,
+                    "optionCode": null
+                },
+                {
+                    "value": "Tự động ngừng hoạt động khi áp lực nước cấp không đủ.",
+                    "isPim": false,
+                    "optionCode": null
+                }
+            ],
+            "label": "Tiện ích",
+            "cmsCode": 25058,
+            "propertyType": "options",
+            "isPim": null,
+            "optionCode": null
+        },
+        "product_type_dmxfilter": {
+            "value": "Máy lọc nước RO",
+            "label": "Loại sản phẩm",
+            "cmsCode": 26600,
+            "propertyType": "options",
+            "isPim": true,
+            "optionCode": "144"
+        },
+        "number_of_filter_cores_dmxfilter": {
+            "value": "10 lõi",
+            "label": "Số lõi lọc",
+            "cmsCode": 34903,
+            "propertyType": "options",
+            "isPim": true,
+            "optionCode": "9"
+        }
+    }
+}
