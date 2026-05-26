@@ -1,3 +1,7 @@
+function hasValue(v) {
+  return v !== null && v !== undefined && !(Array.isArray(v) && v.length === 0);
+}
+
 export default function ProductHeader({ attributes }) {
   const byKey = (fieldKey) => attributes.find(a => a.fieldKey === fieldKey);
 
@@ -7,9 +11,11 @@ export default function ProductHeader({ attributes }) {
   const urlSlug = byKey('url')?.value || '—';
   const tags = byKey('tags')?.value;
 
-  const matched  = attributes.filter(a => a.status === 'matched' && !a.flagged).length;
-  const newValue = attributes.filter(a => a.status === 'new_value').length;
-  const newAttr  = attributes.filter(a => a.status === 'new_attr').length;
+  const validAttrs = attributes.filter(a => hasValue(a.value) && a.propertyType !== 'text');
+
+  const matched  = validAttrs.filter(a => a.status === 'matched' && !a.flagged).length;
+  const newValue = validAttrs.filter(a => a.status === 'new_value').length;
+  const newAttr  = validAttrs.filter(a => a.status === 'new_attr').length;
   const flagged  = attributes.filter(a => a.flagged).length;
 
   return (

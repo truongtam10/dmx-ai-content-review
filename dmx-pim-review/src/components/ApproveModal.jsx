@@ -1,8 +1,13 @@
 import { useEffect } from 'react';
 
+function hasValue(v) {
+  return v !== null && v !== undefined && !(Array.isArray(v) && v.length === 0);
+}
+
 export default function ApproveModal({ attributes, onClose, onConfirm }) {
-  const matched = attributes.filter(a => a.status === 'matched').length;
-  const newAttr = attributes.filter(a => a.status === 'new_attr').length;
+  const validAttrs = attributes.filter(a => hasValue(a.value) && a.propertyType !== 'text');
+  const matched = validAttrs.filter(a => a.status === 'matched').length;
+  const newAttr = validAttrs.filter(a => a.status === 'new_attr').length;
   const handEntered = attributes.filter(a => a._edited).length;
   const total = attributes.length;
 

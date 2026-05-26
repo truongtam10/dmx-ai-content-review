@@ -45,10 +45,11 @@ export default function EditorPage() {
     try {
       const json = JSON.parse(text);
       const attrs = parsePimData(json);
-      const matched  = attrs.filter(a => a.status === 'matched').length;
-      const newValue = attrs.filter(a => a.status === 'new_value').length;
-      const newAttr  = attrs.filter(a => a.status === 'new_attr').length;
-      const missing  = attrs.filter(a => a.status === 'missing').length;
+      const validAttrs = attrs.filter(a => a.value !== null && a.value !== undefined && !(Array.isArray(a.value) && a.value.length === 0) && a.propertyType !== 'text');
+      const matched  = validAttrs.filter(a => a.status === 'matched').length;
+      const newValue = validAttrs.filter(a => a.status === 'new_value').length;
+      const newAttr  = validAttrs.filter(a => a.status === 'new_attr').length;
+      const missing  = attrs.filter(a => a.status === 'missing' && a.propertyType !== 'text').length;
       setAttributes(attrs);
       setStats({ total: attrs.length, matched, newValue, newAttr, missing });
       setParseError(null);

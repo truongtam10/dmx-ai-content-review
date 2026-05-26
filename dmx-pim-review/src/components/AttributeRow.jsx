@@ -131,15 +131,25 @@ export default function AttributeRow({ attr }) {
       </td>
 
       <td className="col-status">
-        <span className={`badge ${badgeCfg.cls}`}>{badgeCfg.label}</span>
+        {attr.propertyType === 'text' ? (
+          <span>-</span>
+        ) : (
+          <span className={`badge ${badgeCfg.cls}`}>{badgeCfg.label}</span>
+        )}
       </td>
 
       <td className="col-action">
-        {attr.status === 'new_value' && (
-          <span className="action-text action-declare">Cần khai báo giá trị mới cho thuộc tính</span>
-        )}
-        {attr.status === 'matched' && (
-          <span className="action-text action-import">Import mã giá trị thuộc tính có sẵn</span>
+        {attr.propertyType === 'text' ? (
+          <span>-</span>
+        ) : (
+          <>
+            {attr.status === 'new_value' && (
+              <span className="action-text action-declare">Cần khai báo giá trị mới cho thuộc tính</span>
+            )}
+            {attr.status === 'matched' && (
+              <span className="action-text action-import">Import mã giá trị thuộc tính có sẵn</span>
+            )}
+          </>
         )}
       </td>
     </tr>

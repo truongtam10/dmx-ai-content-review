@@ -14,9 +14,9 @@ export default function SectionBlock({ title, icon, color, attributes }) {
 
   if (visible.length === 0) return null;
 
-  const matched  = visible.filter(a => a.status === 'matched').length;
-  const newValue = visible.filter(a => a.status === 'new_value').length;
-  const newAttr  = visible.filter(a => a.status === 'new_attr').length;
+  const matched  = visible.filter(a => a.status === 'matched' && a.propertyType !== 'text').length;
+  const newValue = visible.filter(a => a.status === 'new_value' && a.propertyType !== 'text').length;
+  const newAttr  = visible.filter(a => a.status === 'new_attr' && a.propertyType !== 'text').length;
   const total    = visible.length;
 
   return (
