@@ -1,0 +1,252 @@
+[
+  {
+    "label": "test_maylanh_PIM",
+    "file": "data/test_maylanh_PIM.json",
+    "group": null
+  },
+  {
+    "label": "test_mayloc_PIM",
+    "file": "data/test_mayloc_PIM.json",
+    "group": null
+  },
+  {
+    "label": "tv",
+    "file": "data/tv.json",
+    "group": null
+  },
+  {
+    "label": "TIVI LED LG 32LB655BPSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 32LB655BPSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 43LB6550PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 43LB6550PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 43NU805BPSC",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 43NU805BPSC.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 43NU855BPSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 43NU855BPSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 50NU805BPSC",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 50NU805BPSC.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 50NU855BPSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 50NU855BPSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 55NU805BPSB",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 55NU805BPSB.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 55NU855BPSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 55NU855BPSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 75NU805BPSB",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 75NU805BPSB.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 75NU855BPSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 75NU855BPSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 85NU805BPSB",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 85NU805BPSB.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 85NU855BPSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 85NU855BPSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI LED LG 98NU855BPSB",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI LED LG 98NU855BPSB.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI MRGB LG 65MRGB86BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI MRGB LG 65MRGB86BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI MRGB LG 75MRGB86BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI MRGB LG 75MRGB86BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI MRGB LG 86MRGB86BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI MRGB LG 86MRGB86BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 55B6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 55B6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 55C6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 55C6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 55G6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 55G6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 65B6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 65B6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 65C6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 65C6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 65G6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 65G6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 77B6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 77B6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 77C6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 77C6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 83W6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 83W6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI OLED LG 97G6PSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI OLED LG 97G6PSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 100QNED86BS",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 100QNED86BS.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 115QNED90BS",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 115QNED90BS.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 43QNED70BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 43QNED70BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 43QNED80BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 43QNED80BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 50QNED70BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 50QNED70BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 50QNED80BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 50QNED80BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 55QNED70BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 55QNED70BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 55QNED80BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 55QNED80BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 65QNED70BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 65QNED70BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 65QNED80BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 65QNED80BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 65QNED81BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 65QNED81BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 65QNED86BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 65QNED86BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 65QNED90BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 65QNED90BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 75QNED70BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 75QNED70BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 75QNED80BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 75QNED80BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 75QNED81BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 75QNED81BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 85QNED70BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 85QNED70BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 85QNED80BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 85QNED80BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 85QNED81BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 85QNED81BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 85QNED90BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 85QNED90BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  },
+  {
+    "label": "TIVI QNED LG 86QNED86BSA",
+    "file": "data/SPEC Tivi LG.xlsx - TIVI QNED LG 86QNED86BSA.json",
+    "group": "SPEC Tivi LG.xlsx"
+  }
+]

@@ -1,0 +1,999 @@
+{
+  "general": {
+    "sku": {
+      "label": "Mã sản phẩm ERP",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "3041094002179",
+      "isPim": true
+    },
+    "product_name": {
+      "label": "Tên model",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "Smart Tivi OLED LG 4K 55 inch 55B6PSA",
+      "isPim": true
+    },
+    "brand_id": {
+      "label": "Thương hiệu",
+      "cmsCode": null,
+      "propertyType": "reference data single select",
+      "value": "LG",
+      "isPim": true
+    },
+    "brand_code": {
+      "label": "Thương hiệu",
+      "cmsCode": null,
+      "propertyType": "reference data single select",
+      "value": "LG",
+      "isPim": true
+    },
+    "manufacture_code": {
+      "label": "Nhà sản xuất",
+      "cmsCode": null,
+      "propertyType": "reference data single select",
+      "value": "LG",
+      "isPim": true
+    },
+    "manufacturing_country_code": {
+      "label": "Nơi sản xuất",
+      "cmsCode": null,
+      "propertyType": "reference data single select",
+      "value": "Indonesia",
+      "isPim": true
+    },
+    "month_warranty": 24,
+    "release_date": {
+      "label": "Ngày ra mắt",
+      "cmsCode": null,
+      "propertyType": "date",
+      "value": "2026",
+      "isPim": false
+    },
+    "short_name": {
+      "label": "Tên rút gọn",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "55B6PSA",
+      "isPim": true
+    },
+    "seo_name": {
+      "label": "Tên thương mại",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "Smart Tivi OLED LG 4K 55 inch 55B6PSA",
+      "isPim": true
+    },
+    "product_short_name": {
+      "label": "Tên viết tắt",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "55B6PSA",
+      "isPim": true
+    },
+    "product_shortname_sku": {
+      "label": "Tên rút gọn hiển thị box sản phẩm của SKU",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "55B6PSA",
+      "isPim": true
+    },
+    "product_name_sku": {
+      "label": "Tên của SKU hiển thị trang chi tiết",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "Smart Tivi OLED LG 4K 55 inch 55B6PSA",
+      "isPim": true
+    },
+    "url": {
+      "label": "URL",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "oled-lg-4k-55-inch-55b6psa",
+      "isPim": true
+    },
+    "tags": {
+      "label": "Tags",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "Smart Tivi OLED LG 4K 55 inch, LG, Tivi OLED, Smart Tivi 55 inch, Tivi 4K",
+      "isPim": false
+    },
+    "keyword_search": {
+      "label": "Từ khóa search",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "Smart Tivi OLED LG 4K 55 inch, LG, Tivi OLED, Smart Tivi 55 inch, Tivi 4K",
+      "isPim": true
+    },
+    "item_code": {
+      "label": "Model",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "55B6PSA",
+      "isPim": true
+    },
+    "base_uom": {
+      "label": "ĐVT cơ sở",
+      "cmsCode": null,
+      "propertyType": "measurement",
+      "value": "Cái",
+      "isPim": true
+    },
+    "is_sold_independently": true,
+    "is_base_product": true,
+    "product_type_business": {
+      "label": "Loại sản phẩm",
+      "cmsCode": null,
+      "propertyType": "simple select",
+      "value": "Tivi",
+      "isPim": true
+    },
+    "product_type_dmx": {
+      "label": "Loại sản phẩm (Thợ ĐMX)",
+      "cmsCode": null,
+      "propertyType": "simple select",
+      "value": "Tivi OLED",
+      "isPim": true
+    },
+    "cms_category_id": {
+      "label": "Ngành hàng CMS",
+      "cmsCode": null,
+      "propertyType": "simple select",
+      "value": "Tivi",
+      "isPim": true
+    },
+    "cms_catgory_name": {
+      "label": "Tên ngành hàng CMS",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "Tivi",
+      "isPim": true
+    },
+    "model_id_cms": {
+      "label": "Mã sản phẩm CMS của model",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "55B6PSA",
+      "isPim": true
+    },
+    "cms_manufacturerid": {
+      "label": "Mã nhà sản xuất",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "LG",
+      "isPim": true
+    },
+    "product_id_cms": {
+      "label": "Mã sản phẩm Web",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": "3041094002179",
+      "isPim": true
+    },
+    "manu_component_code": {
+      "label": "Mã số linh kiện của NSX",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": null,
+      "isPim": true
+    },
+    "no_imei": {
+      "label": "Mã sản phẩm No-IMEI",
+      "cmsCode": null,
+      "propertyType": "text",
+      "value": null,
+      "isPim": true
+    },
+    "product_type": {
+      "label": "Phân loại sản phẩm",
+      "cmsCode": null,
+      "propertyType": "simple select",
+      "value": null,
+      "isPim": true
+    },
+    "product_type_list": {
+      "label": "Phân loại sản phẩm",
+      "cmsCode": null,
+      "propertyType": "multi select",
+      "value": null,
+      "isPim": true
+    },
+    "user_manual_image": {
+      "label": "Giấy hướng dẫn sử dụng",
+      "cmsCode": null,
+      "propertyType": "image",
+      "value": null,
+      "isPim": true
+    },
+    "certified_declaration": {
+      "label": "Giấy công bố cục chứng nhận",
+      "cmsCode": null,
+      "propertyType": "image",
+      "value": null,
+      "isPim": true
+    },
+    "other_genuine_declaration": {
+      "label": "Giấy công bố chính hãng khác",
+      "cmsCode": null,
+      "propertyType": "image",
+      "value": null,
+      "isPim": true
+    },
+    "key_features": {
+      "label": "Đặc điểm nổi bật",
+      "cmsCode": null,
+      "propertyType": "text area",
+      "value": null,
+      "isPim": true
+    },
+    "display_order": {
+      "label": "Thứ tự hiển thị của SKU trong model",
+      "cmsCode": null,
+      "propertyType": "number",
+      "value": null,
+      "isPim": true
+    },
+    "size_choosing_instruction": {
+      "label": "Bảng size",
+      "cmsCode": null,
+      "propertyType": "image",
+      "value": null,
+      "isPim": true
+    },
+    "using_instruction": {
+      "label": "Hướng dẫn sử dụng và bảo quản",
+      "cmsCode": null,
+      "propertyType": "text area",
+      "value": null,
+      "isPim": true
+    },
+    "display_order_priority": {
+      "label": "Thứ tự sắp xếp nổi bật của sản phẩm",
+      "cmsCode": null,
+      "propertyType": "number",
+      "value": null,
+      "isPim": true
+    },
+    "arrival_day": {
+      "label": "Ngày hàng về",
+      "cmsCode": null,
+      "propertyType": "date",
+      "value": null,
+      "isPim": true
+    },
+    "association_code": {
+      "label": "Mã liên kết sản phẩm combo",
+      "cmsCode": null,
+      "propertyType": "reference data single select",
+      "value": null,
+      "isPim": true
+    },
+    "is_combo": {
+      "label": "Là sản phẩm combo",
+      "cmsCode": null,
+      "propertyType": "yes/no",
+      "value": null,
+      "isPim": true
+    },
+    "image": {
+      "label": "Hình đại diện của model",
+      "cmsCode": null,
+      "propertyType": "image",
+      "value": null,
+      "isPim": true
+    },
+    "key_selling_points": {
+      "label": "Đặc điểm sản phẩm",
+      "cmsCode": null,
+      "propertyType": "text area",
+      "value": null,
+      "isPim": true
+    },
+    "is_average_cost_price": {
+      "label": "Tính bình quân gia quyền",
+      "cmsCode": null,
+      "propertyType": "yes/no",
+      "value": null,
+      "isPim": true
+    },
+    "short_product_articles": {
+      "label": "Mô tả ngắn sản phẩm",
+      "cmsCode": null,
+      "propertyType": "text area",
+      "value": null,
+      "isPim": true
+    },
+    "is_service": {
+      "label": "Sản phẩm dịch vụ",
+      "cmsCode": null,
+      "propertyType": "yes/no",
+      "value": null,
+      "isPim": true
+    },
+    "product_articles": {
+      "label": "Bài viết sản phẩm",
+      "cmsCode": null,
+      "propertyType": "text area",
+      "value": null,
+      "isPim": true
+    },
+    "is_request_imei": {
+      "label": "Yêu cầu nhập IMEI",
+      "cmsCode": null,
+      "propertyType": "yes/no",
+      "value": null,
+      "isPim": true
+    }
+  },
+  "content": {
+    "shortDescription_content": {
+      "label": "Thông tin nhanh",
+      "cmsCode": null,
+      "propertyType": "textarea",
+      "value": "Tivi OLED LG 4K 55 inch với hệ điều hành Web OS 26, công nghệ hình ảnh α8 AI Processor 4K Gen3, tần số quét 120Hz Native, hỗ trợ Dolby Vision, HDR10, HLG và nhiều tiện ích thông minh như LG ThinQ, Google Cast, Airplay 2, AI Magic Remote MR26."
+    },
+    "hotReason_content": {
+      "label": "Key selling points",
+      "cmsCode": null,
+      "propertyType": "textarea",
+      "value": "Công nghệ OLED cho màu đen hoàn hảo, xử lý hình ảnh bằng AI với α8 AI Processor 4K Gen3, tần số quét 120Hz Native (VRR 144Hz), hỗ trợ chơi game mượt với Gsync, Freesync, ALLM, điều khiển bằng giọng nói tiếng Việt, tích hợp MS Copilot, trình duyệt web toàn màn hình."
+    },
+    "description_content": {
+      "label": "Tính năng nổi bật",
+      "cmsCode": null,
+      "propertyType": "textarea",
+      "value": "Tivi OLED LG 55B6PSA mang đến trải nghiệm hình ảnh đỉnh cao với độ phân giải 4K Ultra HD, công nghệ α8 AI Super Upscaling 4K, AI Picture Pro, AI Brightness control, AI HDR Remastering. Hỗ trợ đa kết nối: HDMI 4K 120Hz, eARC, VRR, ALLM, QMS, QFT. Âm thanh 20W với α8 AI Sound Pro, Clear Voice Pro, WOW Orchestra. Tích hợp các tiện ích thông minh: LG ThinQ, Google Cast, Hey Google, Airplay 2, AI Magic Remote MR26, Multiview, trình duyệt web toàn màn hình."
+    }
+  },
+  "specs": {
+    "product_type_dmxtskt_option": {
+      "value": [
+        {
+          "value": "Tivi OLED",
+          "isPim": true,
+          "optionCode": "163"
+        }
+      ],
+      "isPim": false,
+      "optionCode": null,
+      "label": "Loại sản phẩm",
+      "cmsCode": 6539,
+      "propertyType": "option"
+    },
+    "screen_size_dmxtskt_option": {
+      "value": "55 inch",
+      "isPim": true,
+      "optionCode": "313",
+      "label": "Kích thước màn hình",
+      "cmsCode": 6540,
+      "propertyType": "option"
+    },
+    "resolution_dmxtskt_option": {
+      "value": "4K (Ultra HD)",
+      "isPim": true,
+      "optionCode": "383",
+      "label": "Độ phân giải",
+      "cmsCode": 6541,
+      "propertyType": "option"
+    },
+    "made_in_dmxtskt_option": {
+      "value": "Indonesia",
+      "isPim": true,
+      "optionCode": "7",
+      "label": "Sản xuất tại",
+      "cmsCode": 6567,
+      "propertyType": "option"
+    },
+    "release_date_dmxtskt_option": {
+      "value": "2026",
+      "isPim": true,
+      "optionCode": "18",
+      "label": "Thời gian ra mắt",
+      "cmsCode": 6989,
+      "propertyType": "option"
+    },
+    "operating_system_dmxtskt_option": {
+      "value": "Web OS 26",
+      "isPim": false,
+      "optionCode": null,
+      "label": "Hệ điều hành",
+      "cmsCode": 27778,
+      "propertyType": "option"
+    },
+    "backlit_dmxtskt_option": {
+      "value": "Hãng không công bố",
+      "isPim": true,
+      "optionCode": "6",
+      "label": "Đèn nền (Backlit)",
+      "cmsCode": 28300,
+      "propertyType": "option"
+    },
+    "panel_dmxtskt_option": {
+      "value": "Hãng không công bố",
+      "isPim": true,
+      "optionCode": "5",
+      "label": "Tấm nền",
+      "cmsCode": 28301,
+      "propertyType": "option"
+    },
+    "frame_material_dmxtskt_option": {
+      "value": "Viền nhựa",
+      "isPim": false,
+      "optionCode": null,
+      "label": "Chất liệu khung viền",
+      "cmsCode": 28415,
+      "propertyType": "option"
+    },
+    "leg_material_dmxtskt_option": {
+      "value": "Vỏ nhựa lõi kim loại",
+      "isPim": false,
+      "optionCode": null,
+      "label": "Chất liệu chân",
+      "cmsCode": 28416,
+      "propertyType": "option"
+    },
+    "imaging_technology_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Tương phản hoàn hảo Perfect Black",
+          "isPim": true,
+          "optionCode": "409"
+        },
+        {
+          "value": "Dải màu siêu rộng Perfect Color",
+          "isPim": true,
+          "optionCode": "59"
+        },
+        {
+          "value": "AI Picture Pro",
+          "isPim": true,
+          "optionCode": "566"
+        },
+        {
+          "value": "HDR High Brightness",
+          "isPim": true,
+          "optionCode": "539"
+        },
+        {
+          "value": "AI HDR Remastering",
+          "isPim": true,
+          "optionCode": "487"
+        },
+        {
+          "value": "AI Emotional Remastering",
+          "isPim": true,
+          "optionCode": "624"
+        },
+        {
+          "value": "Dolby vision gaming/HDR10+ Gaming",
+          "isPim": true,
+          "optionCode": "598"
+        },
+        {
+          "value": "OLED Dynamic Tone Mapping Pro",
+          "isPim": true,
+          "optionCode": "625"
+        },
+        {
+          "value": "OLED Motion Pro",
+          "isPim": true,
+          "optionCode": "257"
+        },
+        {
+          "value": "Công nghệ điểm ảnh Pixel Dimming",
+          "isPim": true,
+          "optionCode": "55"
+        },
+        {
+          "value": "Độ trễ phản hồi hình ảnh (gaming) dưới 0.1 ms",
+          "isPim": true,
+          "optionCode": "563"
+        },
+        {
+          "value": "FilmMaker Mode",
+          "isPim": true,
+          "optionCode": "375"
+        },
+        {
+          "value": "Bộ xử lý α8 AI Processor 4K Gen3",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "α8 AI Super Upscaling 4K: nâng cấp chất lượng hình ảnh với chip xử lý α8 AI",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Auto Brightness Control",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "QMS (Quick Media Switching)",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "QFT (Quick Frame Transport)",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "09 chế độ hình ảnh: (Soc O26 / K26 / K25Lp, above 4K UHD): Personalized Picture, Vivid, Standard, Eco, Cinema Home, Game, Filmmaker, (isf)Expert(Bright Room, daytime), (isf)Expert(Dark Room, night)",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Công nghệ xử lý hình ảnh cho trải nghiệm game mượt mà: Gsync, Freesync HGIG Mode, ALLM (Auto Low Latency Mode)",
+          "isPim": false,
+          "optionCode": null
+        }
+      ],
+      "label": "Công nghệ hình ảnh",
+      "cmsCode": 6545,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "scanning_frequency_dmxtskt_option": {
+      "value": "120 Hz",
+      "isPim": true,
+      "optionCode": "1",
+      "label": "Tần số quét",
+      "cmsCode": 16304,
+      "propertyType": "option"
+    },
+    "processor_cpu_dmxtskt_option": {
+      "value": null,
+      "isPim": false,
+      "optionCode": null,
+      "label": "Chip xử lý (CPU)",
+      "cmsCode": 35318,
+      "propertyType": "option"
+    },
+    "smart_remote_dmxtskt_option": {
+      "value": "AI Magic Remote MR26",
+      "isPim": false,
+      "optionCode": null,
+      "label": "Remote thông minh",
+      "cmsCode": 8890,
+      "propertyType": "option"
+    },
+    "control_via_phone_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Ứng dụng LG ThinQ",
+          "isPim": true,
+          "optionCode": "30"
+        }
+      ],
+      "label": "Điều khiển bằng điện thoại",
+      "cmsCode": 8891,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "application_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Google Play",
+          "isPim": true,
+          "optionCode": "116"
+        }
+      ],
+      "label": "Ứng dụng",
+      "cmsCode": 27779,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "voice_control_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Google Assistant có tiếng Việt",
+          "isPim": true,
+          "optionCode": "5"
+        }
+      ],
+      "label": "Điều khiển bằng giọng nói",
+      "cmsCode": 27780,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "share_screen_dmxtskt_options": {
+      "value": [
+        {
+          "value": "AirPlay 2",
+          "isPim": true,
+          "optionCode": "3"
+        },
+        {
+          "value": "Google Cast",
+          "isPim": true,
+          "optionCode": "13"
+        }
+      ],
+      "label": "Share screen",
+      "cmsCode": 27781,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "compatibility_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Google Cast",
+          "isPim": true,
+          "optionCode": "835"
+        }
+      ],
+      "label": "Tương thích",
+      "cmsCode": 27782,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "utilities_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Tích hợp MS Copilot",
+          "isPim": true,
+          "optionCode": "4181"
+        },
+        {
+          "value": "Trình duyệt web toàn màn hình",
+          "isPim": true,
+          "optionCode": "4180"
+        },
+        {
+          "value": "Tương thích với Google Cast, Hey Google, LG ThinQ",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Tính năng Multiview - xem nhiều màn hình",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Điều khiển từ xa LG ThinQ",
+          "isPim": true,
+          "optionCode": "986"
+        },
+        {
+          "value": "Google Cast",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Google Home",
+          "isPim": true,
+          "optionCode": "2203"
+        },
+        {
+          "value": "Điều khiển qua giọng nói Tiếng Việt (ứng dụng AI)",
+          "isPim": true,
+          "optionCode": "3739"
+        },
+        {
+          "value": "Micro tích hợp trên TV - điều khiển giọng nói rảnh tay",
+          "isPim": true,
+          "optionCode": "4177"
+        },
+        {
+          "value": "Airplay 2",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "AI Magic Remote MR26",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Các tính năng AI (AI Agent, AI Concierge, AI Chatbot, AI Search, AI Picture Wizard, AI Sound Wizard)",
+          "isPim": true,
+          "optionCode": "4183"
+        }
+      ],
+      "label": "Tiện ích",
+      "cmsCode": 27927,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "audio_technology_dmxtskt_options": {
+      "value": [
+        {
+          "value": "α8 AI Sound Pro (Virtual 9.1.2 Up-mix)",
+          "isPim": true,
+          "optionCode": "112"
+        },
+        {
+          "value": "Chế độ Clear Voice Pro",
+          "isPim": true,
+          "optionCode": "517"
+        },
+        {
+          "value": "Điều chỉnh âm thanh tự động AI Acoustic Tuning",
+          "isPim": true,
+          "optionCode": "158"
+        },
+        {
+          "value": "Đồng bộ hóa âm thanh LG Sound Sync",
+          "isPim": true,
+          "optionCode": "236"
+        },
+        {
+          "value": "WOW Orchestra",
+          "isPim": true,
+          "optionCode": "113"
+        },
+        {
+          "value": "Chia sẻ âm thanh (TV Sound Mode Share): Tận hưởng Chế độ âm thanh TV từ soundbar và Chế độ âm thanh Soundbar từ TV. (Tính năng này chỉ khả dụng trên các thiết bị chia sẻ âm thanh TV từ soundbar được kết nối với HDMI(ARC) hoặc trên các thiết bị hỗ trợ Điều khiển chế độ Soundbar.)",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Công nghệ kết nối không dây WISA với hệ thống âm thanh ngoài tương thích",
+          "isPim": false,
+          "optionCode": null
+        },
+        {
+          "value": "Audio Codec\tAC4, AC3(Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X",
+          "isPim": false,
+          "optionCode": null
+        }
+      ],
+      "label": "Công nghệ âm thanh",
+      "cmsCode": 6547,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "total_speaker_power_dmxtskt_textarea": {
+      "label": "Tổng công suất loa",
+      "cmsCode": 6548,
+      "propertyType": "textarea",
+      "value": "20W (10W per channel), 2.0 ch"
+    },
+    "quantity_dmxtskt_option": {
+      "value": null,
+      "isPim": false,
+      "optionCode": null,
+      "label": "Số lượng",
+      "cmsCode": 35885,
+      "propertyType": "option"
+    },
+    "surround_sound_dmxtskt_options": {
+      "label": "Âm thanh vòm",
+      "cmsCode": 35886,
+      "propertyType": "options",
+      "value": [],
+      "isPim": null,
+      "optionCode": null
+    },
+    "voice_filtering_mode_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Chế độ lọc thoại Clear Voice Pro",
+          "isPim": true,
+          "optionCode": "5"
+        }
+      ],
+      "label": "Chế độ lọc thoại",
+      "cmsCode": 35887,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "internet_connection_dmxtskt_options": {
+      "value": [
+        {
+          "value": "Cổng mạng LAN",
+          "isPim": true,
+          "optionCode": "4"
+        },
+        {
+          "value": "1 x Wifi 6",
+          "isPim": true,
+          "optionCode": "5"
+        }
+      ],
+      "label": "Kết nối Internet",
+      "cmsCode": 28058,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "connect_dmxtskt_option": {
+      "value": "Bluetooth 5.3",
+      "isPim": true,
+      "optionCode": "22",
+      "label": "Kết nối",
+      "cmsCode": 28059,
+      "propertyType": "option"
+    },
+    "ram_dmxtskt_option": {
+      "value": "Hãng không công bố",
+      "isPim": true,
+      "optionCode": "45",
+      "label": "RAM",
+      "cmsCode": 47918,
+      "propertyType": "option"
+    },
+    "rom_dmxtskt_option": {
+      "value": "Hãng không công bố",
+      "isPim": true,
+      "optionCode": "2",
+      "label": "ROM",
+      "cmsCode": 47919,
+      "propertyType": "option"
+    },
+    "usb_a_dmxtskt_textarea": {
+      "label": "USB A",
+      "cmsCode": 28060,
+      "propertyType": "textarea",
+      "value": "2 cổng 2.0"
+    },
+    "usb_type_c_dmxtskt_textarea": {
+      "label": "USB Type C",
+      "cmsCode": 42858,
+      "propertyType": "textarea",
+      "value": "0.0"
+    },
+    "hdmi_dmxtskt_textarea": {
+      "label": "HDMI",
+      "cmsCode": 28062,
+      "propertyType": "textarea",
+      "value": "4ea (supports 4K 120Hz, eARC, VRR, ALLM, QMS, QFT)"
+    },
+    "composite_dmxtskt_textarea": {
+      "label": "Composite",
+      "cmsCode": 28064,
+      "propertyType": "textarea",
+      "value": "Không"
+    },
+    "component_dmxtskt_textarea": {
+      "label": "Component",
+      "cmsCode": 28065,
+      "propertyType": "textarea",
+      "value": "Không"
+    },
+    "headphone_jack_dmxtskt_textarea": {
+      "label": "Cổng tai nghe, headphone",
+      "cmsCode": 28068,
+      "propertyType": "textarea",
+      "value": "Không"
+    },
+    "optical_port_dmxtskt_textarea": {
+      "label": "Cổng Optical",
+      "cmsCode": 28069,
+      "propertyType": "textarea",
+      "value": "Có"
+    },
+    "arcearc_dmxtskt_option": {
+      "value": "SPDIF (Optical Digital Audio Out), eARC (HDMI 2)",
+      "isPim": false,
+      "optionCode": null,
+      "label": "ARC/eARC",
+      "cmsCode": 28070,
+      "propertyType": "option"
+    },
+    "coaxial_port_dmxtskt_textarea": {
+      "label": "Cổng Coaxial",
+      "cmsCode": 35138,
+      "propertyType": "textarea",
+      "value": "Không"
+    },
+    "usb_dmxtskt_textarea": {
+      "label": "USB",
+      "cmsCode": 42859,
+      "propertyType": "textarea",
+      "value": "2 cổng 2.0"
+    },
+    "size_dmxtskt_textarea": {
+      "label": "Kích thước",
+      "cmsCode": 6563,
+      "propertyType": "textarea",
+      "value": "Ngang: 122.8 cm Cao: 77.8 cm Dày: 21.8 cm"
+    },
+    "machine_weight_dmxtskt_textarea": {
+      "label": "Khối lượng máy",
+      "cmsCode": 6564,
+      "propertyType": "textarea",
+      "value": "14.5 kg"
+    },
+    "legless_size_dmxtskt_textarea": {
+      "label": "Kích thước không chân",
+      "cmsCode": 6565,
+      "propertyType": "textarea",
+      "value": "Ngang: 122.8 cm Cao: 70.8 cm Dày: 4.59 cm"
+    },
+    "legless_mass_dmxtskt_textarea": {
+      "label": "Khối lượng không chân",
+      "cmsCode": 6566,
+      "propertyType": "textarea",
+      "value": "14.3 kg"
+    },
+    "screen_size_dmxfilter": {
+      "value": "55 inch",
+      "label": "Kích thước màn hình",
+      "cmsCode": 40562,
+      "propertyType": "options",
+      "isPim": true,
+      "optionCode": "313"
+    },
+    "product_type_dmxfilter": {
+      "value": [
+        {
+          "value": "Tivi OLED",
+          "isPim": true,
+          "optionCode": "163"
+        }
+      ],
+      "label": "Loại sản phẩm",
+      "cmsCode": 7320,
+      "propertyType": "options",
+      "isPim": null,
+      "optionCode": null
+    },
+    "memory_dmxfilter": {
+      "label": "Bộ nhớ",
+      "cmsCode": 20287,
+      "propertyType": "options",
+      "value": [],
+      "isPim": null,
+      "optionCode": null
+    },
+    "exclusive_product_dmxfilter": {
+      "label": "Sản phẩm độc quyền",
+      "cmsCode": 26283,
+      "propertyType": "options",
+      "value": [],
+      "isPim": null,
+      "optionCode": null
+    },
+    "type_of_design_dmxfilter": {
+      "label": "Loại thiết kế",
+      "cmsCode": 26298,
+      "propertyType": "options",
+      "value": [],
+      "isPim": null,
+      "optionCode": null
+    },
+    "select_by_row_dmxfilter": {
+      "label": "Chọn theo dòng",
+      "cmsCode": 28152,
+      "propertyType": "options",
+      "value": [],
+      "isPim": null,
+      "optionCode": null
+    },
+    "operating_system_dmxfilter": {
+      "value": "Web OS 26",
+      "label": "Hệ điều hành",
+      "cmsCode": 34800,
+      "propertyType": "options",
+      "isPim": false,
+      "optionCode": null
+    },
+    "hdmi_earcarc_dmxtskt_option": {
+      "label": "HDMI eARC/ARC",
+      "cmsCode": 28063,
+      "propertyType": "option",
+      "value": null,
+      "isPim": null,
+      "optionCode": null
+    },
+    "graphics_card_dmxtskt_textarea": {
+      "label": "Card đồ họa",
+      "cmsCode": 28066,
+      "propertyType": "textarea",
+      "value": null
+    }
+  }
+}
